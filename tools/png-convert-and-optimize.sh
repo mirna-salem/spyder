@@ -4,7 +4,7 @@
 # format is correct, and to avoid lipng warnings like:
 # libpng warning: iCCP: known incorrect sRGB profile
 # For more information, see spyder-ide/spyder#2216.
-# This soluation is based on:
+# This solution is based on:
 # https://stackoverflow.com/questions/22745076/libpng-warning-iccp-known-incorrect-srgb-profile
 # https://tex.stackexchange.com/questions/125612/warning-pdflatex-libpng-warning-iccp-known-incorrect-srgb-profile
 #
